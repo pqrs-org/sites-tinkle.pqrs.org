@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tinkle Changelog</title>
+    <link>https://tinkle.pqrs.org/files/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.5.0</title>
+      <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>About v0.5.0 Update</h2>
+<ul>
+<li>✨ New Features
+
+<ul>
+<li>First release.</li>
+</ul></li>
+</ul>
+<p>
+  <a href="https://tinkle.pqrs.org/docs/releasenotes/">More</a>
+</p>
+]]>
+      </description>
+      <pubDate>Fri, 07 Feb 2020 18:55:49 -0000</pubDate>
+      <enclosure url="https://tinkle.pqrs.org/files/Tinkle-0.5.0.dmg"
+                 sparkle:version="0.5.0" type="application/octet-stream"
+                 sparkle:edSignature="aEAMPx1cYQ+CSUOb5Rdb2MVUbVI67o2pDvPg+lRE7/kL5AtVAc17o42n3rVhfw/EixbWVfQNBcHvg36WOUKeAw==" length="2769842"
+      />
+    </item>
+
+  </channel>
+</rss>
