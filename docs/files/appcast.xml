@@ -7,10 +7,10 @@
     <language>en</language>
 
     <item>
-      <title>Version 0.5.0</title>
-      <sparkle:minimumSystemVersion>10.9.0</sparkle:minimumSystemVersion>
+      <title>Version 0.6.0</title>
+      <sparkle:minimumSystemVersion>10.15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>About v0.5.0 Update</h2>
+<h2>About v0.6.0 Update</h2>
 <ul>
 <li>✨ New Features
 
@@ -23,10 +23,10 @@
 </p>
 ]]>
       </description>
-      <pubDate>Fri, 07 Feb 2020 18:55:49 -0000</pubDate>
-      <enclosure url="https://tinkle.pqrs.org/files/Tinkle-0.5.0.dmg"
-                 sparkle:version="0.5.0" type="application/octet-stream"
-                 sparkle:edSignature="aEAMPx1cYQ+CSUOb5Rdb2MVUbVI67o2pDvPg+lRE7/kL5AtVAc17o42n3rVhfw/EixbWVfQNBcHvg36WOUKeAw==" length="2769842"
+      <pubDate>Sat, 08 Feb 2020 06:23:47 -0000</pubDate>
+      <enclosure url="https://tinkle.pqrs.org/files/Tinkle-0.6.0.dmg"
+                 sparkle:version="0.6.0" type="application/octet-stream"
+                 sparkle:edSignature="hWNPqFKqFkm4GX1AiVd1oMyL1j6OJtcCd96Yorp6/GCNiepSx5H8HPGZXD6iEj/qh5B6Ardx+d6fqZr/u0NbBQ==" length="3354635"
       />
     </item>
 
